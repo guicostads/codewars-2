@@ -1,7 +1,9 @@
 # codewars-2
 My solution to a 6th kyu codewars kata.
 
-### Who likes it?
+### The challenge
+
+Who likes it?
 
 You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
 
